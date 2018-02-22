@@ -1,6 +1,6 @@
 using System;
 
-namespace CoreTwoDotZero.Models
+namespace BookList.Models
 {
     public class ErrorViewModel
     {

@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using CoreTwoDotZero.Models;
+using BookList.Models;
 
-namespace CoreTwoDotZero.Controllers
+namespace BookList.Controllers
 {
     public class HomeController : Controller
     {
